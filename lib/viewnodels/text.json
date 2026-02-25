@@ -1,0 +1,825 @@
+
+{
+  "vod": {
+    "vod_id": 1,
+    "type_id": 1,
+    "type_id_1": 0,
+    "group_id": 0,
+    "vod_name": "黄金神威 最终章",
+    "vod_sub": "",
+    "vod_en": "huangjinshenweizuizhongzhang",
+    "vod_status": 1,
+    "vod_letter": "H",
+    "vod_color": "",
+    "vod_tag": "",
+    "vod_class": "动作,热血,冒险,剧情",
+    "vod_pic": "https://123344.xyz/upload/vod/20260131-1/2568cef4beb4d48c0d53bf483d0c3998.jpg",
+    "vod_pic_thumb": "",
+    "vod_pic_slide": "",
+    "vod_pic_screenshot": null,
+    "vod_actor": "CV:,小林親弘,杉元佐一,CV:,白石晴香,アシ(リ)パ,CV:,伊藤健太郎,白石由竹,CV:,大塚芳忠,鶴見中尉,CV:,中田譲治,土方歳三,CV:,津田健次郎,尾形百之助,CV:,乃村健次,牛山辰馬,CV:,菅生隆之,永倉新八,CV:,杉田智和,二階堂浩平,CV:,松岡禎丞,宇佐美上等兵,CV:,竹本英史,月島軍曹,CV:,小西克幸,鯉登少尉,CV:,関智一,海賊房太郎",
+    "vod_director": "",
+    "vod_writer": "",
+    "vod_behind": "",
+    "vod_blurb": "黄金神威动画最终章制作决定",
+    "vod_remarks": "更新至第08|不定时更新",
+    "vod_pubdate": "",
+    "vod_total": 0,
+    "vod_serial": "0",
+    "vod_tv": "",
+    "vod_weekday": "一",
+    "vod_area": "日本",
+    "vod_lang": "",
+    "vod_year": "2026",
+    "vod_version": "",
+    "vod_state": "",
+    "vod_author": "",
+    "vod_jumpurl": "",
+    "vod_tpl": "",
+    "vod_tpl_play": "",
+    "vod_tpl_down": "",
+    "vod_isend": 0,
+    "vod_lock": 0,
+    "vod_level": 0,
+    "vod_copyright": 0,
+    "vod_points": 0,
+    "vod_points_play": 0,
+    "vod_points_down": 0,
+    "vod_hits": 424,
+    "vod_hits_day": 4,
+    "vod_hits_week": 4,
+    "vod_hits_month": 28,
+    "vod_duration": "",
+    "vod_up": 684,
+    "vod_down": 838,
+    "vod_score": "4.0",
+    "vod_score_all": 3736,
+    "vod_score_num": 934,
+    "vod_time": 1771956016,
+    "vod_time_add": 1769521568,
+    "vod_time_hits": 1771855420,
+    "vod_time_make": 0,
+    "vod_trysee": 0,
+    "vod_douban_id": 0,
+    "vod_douban_score": "0.0",
+    "vod_reurl": "",
+    "vod_rel_vod": "",
+    "vod_rel_art": "",
+    "vod_pwd": "",
+    "vod_pwd_url": "",
+    "vod_pwd_play": "",
+    "vod_pwd_play_url": "",
+    "vod_pwd_down": "",
+    "vod_pwd_down_url": "",
+    "vod_content": "黄金神威动画最终章制作决定",
+    "vod_play_from": "girig$$$girig-2$$$cycity$$$cycity-2$$$fancha$$$fancha-4$$$fantuan$$$qifan",
+    "vod_play_server": "$$$$$$$$$$$$$$$$$$$$$",
+    "vod_play_note": "$$$$$$$$$$$$$$$$$$$$$",
+    "vod_down_from": "",
+    "vod_down_server": "",
+    "vod_down_note": "",
+    "vod_down_url": "",
+    "vod_plot": 0,
+    "vod_plot_name": "",
+    "vod_plot_detail": ""
+  },
+  "comment": [],
+  "same_list": [
+    {
+      "vod_id": 1,
+      "vod_name": "黄金神威 最终章",
+      "vod_pic": "https://123344.xyz/upload/vod/20260131-1/2568cef4beb4d48c0d53bf483d0c3998.jpg",
+      "vod_pic_slide": "",
+      "vod_remarks": "更新至第08|不定时更新",
+      "vod_sub": "",
+      "vod_class": "动作,热血,冒险,剧情",
+      "vod_actor": "CV:,小林親弘,杉元佐一,CV:,白石晴香,アシ(リ)パ,CV:,伊藤健太郎,白石由竹,CV:,大塚芳忠,鶴見中尉,CV:,中田譲治,土方歳三,CV:,津田健次郎,尾形百之助,CV:,乃村健次,牛山辰馬,CV:,菅生隆之,永倉新八,CV:,杉田智和,二階堂浩平,CV:,松岡禎丞,宇佐美上等兵,CV:,竹本英史,月島軍曹,CV:,小西克幸,鯉登少尉,CV:,関智一,海賊房太郎",
+      "vod_score": "4.0",
+      "vod_year": "2026",
+      "vod_lang": "",
+      "vod_area": "日本",
+      "vod_blurb": "黄金神威动画最终章制作决定"
+    },
+    {
+      "vod_id": 2,
+      "vod_name": "大姐姐的绮丽日常",
+      "vod_pic": "https://bgm.girigirilove.com/upload/vod/20260102-1/baa8b50da98b4242de0f20d3b48f5e4c.webp",
+      "vod_pic_slide": "",
+      "vod_remarks": "更新至第6话",
+      "vod_sub": "",
+      "vod_class": "日常,剧情,治愈",
+      "vod_actor": "铃代纱弓",
+      "vod_score": "7.0",
+      "vod_year": "2026",
+      "vod_lang": "",
+      "vod_area": "日本",
+      "vod_blurb": "本作以温泉涌动的海滨城市热海为舞台，讲述经营小型洗衣店的主角金目绵花奈与身边众人交织的温情故事。开朗勤劳的金目虽热爱温泉，却因两年前的事故渐渐失去旧时记忆......"
+    },
+    {
+      "vod_id": 3,
+      "vod_name": "公主大人接下来是拷问时间   第二季",
+      "vod_pic": "https://bgm.girigirilove.com/upload/vod/20260102-1/84ad2f5d72483f7c9a2ed6e44b28d99d.webp",
+      "vod_pic_slide": "",
+      "vod_remarks": "更新至第7话",
+      "vod_sub": "",
+      "vod_class": "萌,异世界,喜剧,美食",
+      "vod_actor": "白石晴香,小林亲弘,伊藤静,永濑安奈,井上穗乃花,山根绮,茅野爱衣,日高里菜,中原麻衣,千本木彩花,富田美忧,福岛润,大塚芳忠,玄田哲章,田村睦心,田村由香里,杉田智和",
+      "vod_score": "5.0",
+      "vod_year": "2026",
+      "vod_lang": "",
+      "vod_area": "日本",
+      "vod_blurb": "国王军与魔王军开始冲突，经过了许多年月。作为公主，同时也是国王军第三骑士团“骑士团长”的她，被魔王军俘虏。“公主大人，到‘拷问’的时间了。”等待被囚禁的公主的是让人扭动身体的各种‘拷问’……蓬松的现烤"
+    },
+    {
+      "vod_id": 4,
+      "vod_name": "青梅竹马的恋爱喜剧无法成立",
+      "vod_pic": "https://bgm.girigirilove.com/upload/vod/20260102-1/415c0ff10340df9ff0548900503ec039.webp",
+      "vod_pic_slide": "",
+      "vod_remarks": "更新至第8话",
+      "vod_sub": "",
+      "vod_class": "喜剧,爱情,日常,校园",
+      "vod_actor": "久住琳,芹泽优,平塚纱依",
+      "vod_score": "9.0",
+      "vod_year": "2026",
+      "vod_lang": "",
+      "vod_area": "日本",
+      "vod_blurb": "高中男生英雄，有两位可爱的青梅竹马！虽然她们没有那个意思，但如果被她们发现只有我一个人用色色的眼光看待已经长大的她们……太羞耻了！性格各异的两个女生总会在“不经意间”与英雄发生意想不到的“碰撞”。各怀"
+    },
+    {
+      "vod_id": 5,
+      "vod_name": "正义使者 :我的英雄学院之非法英雄:  第二季",
+      "vod_pic": "https://bgm.girigirilove.com/upload/vod/20260102-1/470350747ceff311fa50158fa32a84af.webp",
+      "vod_pic_slide": "",
+      "vod_remarks": "更新至第8话",
+      "vod_sub": "",
+      "vod_class": "动作,奇幻,热血",
+      "vod_actor": "CV:,梅田修一朗,灰廻航一,CV:,長谷川育美,ポップ☆ステップ,CV:,間宮康弘,ナックルダスター,CV:,森川智之,キャプテン・セレブリティ,CV:,瀬戸麻沙美,塚内真,CV:,川島得愛,塚内直正,CV:,植田佳奈,蟹屋敷モニカ,CV:,興津和幸,ファットガム,CV:,緑川光,ベストジーニスト,CV:,鎌苅健太,エッジショット,CV:,三宅健太,オールマイト,CV:,八代拓,傷顔の男,CV:,諏訪部順一,相澤消太,CV:,小野賢章,白雲朧,CV:,吉野裕行,山田ひざし",
+      "vod_score": "1.0",
+      "vod_year": "2026",
+      "vod_lang": "",
+      "vod_area": "日本",
+      "vod_blurb": "灰迴航一是個有過英雄夢，現在卻已放棄的平凡大學生。然而這樣的他，卻暗地裡穿著扮成歐爾麥特的服裝，假裝自己是職業英雄熱心助人並樂此不疲。過著一天天平凡日子的航一，有天卻遇上了未經許可在街頭辦演唱會的自稱"
+    },
+    {
+      "vod_id": 6,
+      "vod_name": "蓝色管弦乐  第二季",
+      "vod_pic": "https://123344.xyz/upload/vod/20260131-1/e554feda42ee0f2b9817fa3fc0e74088.jpg",
+      "vod_pic_slide": "",
+      "vod_remarks": "更新至第20|周一更新",
+      "vod_sub": "",
+      "vod_class": "音乐,日常,校园,青春",
+      "vod_actor": "千叶翔也,土屋神叶,加隈亚衣,佐藤未奈子,Lynn,古川慎,浅沼晋太郎,榎木淳弥,小原好美,前田佳织里,福岛润,安济知佳,青木瑠璃子,金元寿子,金泽舞,渊上舞,置鲇龙太郎,斋藤千和,金子隼人,小野大辅",
+      "vod_score": "8.0",
+      "vod_year": "2025",
+      "vod_lang": "",
+      "vod_area": "日本",
+      "vod_blurb": "演奏会结束，三年级前辈正式引退，社团开始了换届。　　连霸八年全国大赛的海幕高中，今年的目标是九连冠。然而换届第一天，社团很多人不来参加晨练。　　打击乐部长质疑阿一的实力、乐器组不满新组长的人选、新乐团"
+    },
+    {
+      "vod_id": 7,
+      "vod_name": "地狱乐  第二季",
+      "vod_pic": "https://123344.xyz/upload/vod/20260131-1/96cadb1f188ac2736aca3b1f3aaafd24.jpg",
+      "vod_pic_slide": "",
+      "vod_remarks": "更新至第07|周日23:30后",
+      "vod_sub": "",
+      "vod_class": "动作,奇幻,冒险,恐怖",
+      "vod_actor": "小林千晃,花守由美里,木村良平,小野贤章,高桥李依,小林亲弘,小市真琴,稻田彻,市川苍,铃木崚汰,游佐浩二,内田真礼,大原沙耶香,小原好美,诹访部顺一,甲斐田裕子",
+      "vod_score": "5.0",
+      "vod_year": "2026",
+      "vod_lang": "",
+      "vod_area": "日本",
+      "vod_blurb": "为了寻找灵药的线索，团队来到了统治岛屿的怪物“天臣”的住所。为了在岛上生存，合作至关重要，无论是死刑犯还是刽子手。另一方面，幕府已下令在仁选乡发起额外登陆，由“山田朝左卫门修健”率领。还有石头隐秘人物"
+    },
+    {
+      "vod_id": 8,
+      "vod_name": "致不灭的你  第三季",
+      "vod_pic": "https://123344.xyz/upload/vod/20260131-1/2a972bfea54ebeff0c9560ed76dce40c.jpg",
+      "vod_pic_slide": "",
+      "vod_remarks": "更新至1集",
+      "vod_sub": "",
+      "vod_class": "奇幻,冒险,剧情",
+      "vod_actor": "川岛零士,楠木灯,花守由美里,潘惠美,内田彩,落合福嗣,泽城千春,古贺葵,樫井笙人,子安武人,引坂理绘,八代拓,稻川英里,广桥凉,加濑康之,石川界人,宫下荣治,津田健次郎",
+      "vod_score": "4.0",
+      "vod_year": "2025",
+      "vod_lang": "",
+      "vod_area": "日本",
+      "vod_blurb": "不滅的存在──不死與其對抗，欲消滅人類的敵對勢力「敲門者」，在與敲門者的激烈攻防戰末期，不死一行人雖獲得勝利，但不死認為需要繼續守護人類，因此擴展自己的身體，以樹根的方式持續與敲門者戰鬥。數百年後，終"
+    },
+    {
+      "vod_id": 9,
+      "vod_name": "被邻国王子溺爱的反派女主",
+      "vod_pic": "https://123344.xyz/upload/vod/20260131-1/cfcc3810b476b77680ab9ea3d80f3522.jpg",
+      "vod_pic_slide": "",
+      "vod_remarks": "更新至第07|周日22:35后",
+      "vod_sub": "",
+      "vod_class": "爱情,乙女,喜剧,异世界,恶役",
+      "vod_actor": "渊上舞,梅原裕一郎,佐藤拓也,花守由美里",
+      "vod_score": "1.0",
+      "vod_year": "2026",
+      "vod_lang": "",
+      "vod_area": "日本",
+      "vod_blurb": "蒂亚拉·罗斯回忆道。我迷恋乙女游戏《青金石的戒指》，那是我前世的游戏。随后，她意识到自己转生到了游戏中，成为了一个“反派女士”，似乎让女主角感到厌恶并干涉。如果女主角成功夺取了哈特骑士的王冠玫瑰，等待"
+    }
+  ],
+  "vod_play_list": [
+    {
+      "player_info": {
+        "show": "线路g1",
+        "parse": "18500cf4244b77dcf8b38db1b8a85c3f",
+        "parse_type": "1",
+        "player_kernel_type": "0",
+        "user_agent": "",
+        "headers": null,
+        "link_features": null,
+        "player_parse_type": "1"
+      },
+      "url_count": 8,
+      "urls": [
+        {
+          "name": "第1集",
+          "url": "https://bgm.girigirilove.com/playGV26894-1-1/",
+          "from": "girig",
+          "nid": 1,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-1-1/"
+        },
+        {
+          "name": "第2集",
+          "url": "https://bgm.girigirilove.com/playGV26894-1-2/",
+          "from": "girig",
+          "nid": 2,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-1-2/"
+        },
+        {
+          "name": "第3集",
+          "url": "https://bgm.girigirilove.com/playGV26894-1-3/",
+          "from": "girig",
+          "nid": 3,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-1-3/"
+        },
+        {
+          "name": "第4集",
+          "url": "https://bgm.girigirilove.com/playGV26894-1-4/",
+          "from": "girig",
+          "nid": 4,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-1-4/"
+        },
+        {
+          "name": "第5集",
+          "url": "https://bgm.girigirilove.com/playGV26894-1-5/",
+          "from": "girig",
+          "nid": 5,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-1-5/"
+        },
+        {
+          "name": "第6集",
+          "url": "https://bgm.girigirilove.com/playGV26894-1-6/",
+          "from": "girig",
+          "nid": 6,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-1-6/"
+        },
+        {
+          "name": "第7集",
+          "url": "https://bgm.girigirilove.com/playGV26894-1-7/",
+          "from": "girig",
+          "nid": 7,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-1-7/"
+        },
+        {
+          "name": "第8集",
+          "url": "https://bgm.girigirilove.com/playGV26894-1-8/",
+          "from": "girig",
+          "nid": 8,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-1-8/"
+        }
+      ]
+    },
+    {
+      "player_info": {
+        "show": "线路g2",
+        "parse": "18500cf4244b77dcf8b38db1b8a85c3f",
+        "parse_type": "1",
+        "player_kernel_type": "0",
+        "user_agent": "",
+        "headers": null,
+        "link_features": null,
+        "player_parse_type": "1"
+      },
+      "url_count": 8,
+      "urls": [
+        {
+          "name": "第1集",
+          "url": "https://bgm.girigirilove.com/playGV26894-2-1/",
+          "from": "girig-2",
+          "nid": 1,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-2-1/"
+        },
+        {
+          "name": "第2集",
+          "url": "https://bgm.girigirilove.com/playGV26894-2-2/",
+          "from": "girig-2",
+          "nid": 2,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-2-2/"
+        },
+        {
+          "name": "第3集",
+          "url": "https://bgm.girigirilove.com/playGV26894-2-3/",
+          "from": "girig-2",
+          "nid": 3,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-2-3/"
+        },
+        {
+          "name": "第4集",
+          "url": "https://bgm.girigirilove.com/playGV26894-2-4/",
+          "from": "girig-2",
+          "nid": 4,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-2-4/"
+        },
+        {
+          "name": "第5集",
+          "url": "https://bgm.girigirilove.com/playGV26894-2-5/",
+          "from": "girig-2",
+          "nid": 5,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-2-5/"
+        },
+        {
+          "name": "第6集",
+          "url": "https://bgm.girigirilove.com/playGV26894-2-6/",
+          "from": "girig-2",
+          "nid": 6,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-2-6/"
+        },
+        {
+          "name": "第7集",
+          "url": "https://bgm.girigirilove.com/playGV26894-2-7/",
+          "from": "girig-2",
+          "nid": 7,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-2-7/"
+        },
+        {
+          "name": "第8集",
+          "url": "https://bgm.girigirilove.com/playGV26894-2-8/",
+          "from": "girig-2",
+          "nid": 8,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://bgm.girigirilove.com/playGV26894-2-8/"
+        }
+      ]
+    },
+    {
+      "player_info": {
+        "show": "线路c1",
+        "parse": "18500cf4244b77dcf8b38db1b8a85c3f",
+        "parse_type": "1",
+        "player_kernel_type": "0",
+        "user_agent": "",
+        "headers": null,
+        "link_features": null,
+        "player_parse_type": "1"
+      },
+      "url_count": 8,
+      "urls": [
+        {
+          "name": "第第01集集",
+          "url": "https://www.cycani.org/watch/6149/1/1.html",
+          "from": "cycity",
+          "nid": 1,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/1/1.html"
+        },
+        {
+          "name": "第第02集集",
+          "url": "https://www.cycani.org/watch/6149/1/2.html",
+          "from": "cycity",
+          "nid": 2,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/1/2.html"
+        },
+        {
+          "name": "第第03集集",
+          "url": "https://www.cycani.org/watch/6149/1/3.html",
+          "from": "cycity",
+          "nid": 3,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/1/3.html"
+        },
+        {
+          "name": "第第04集集",
+          "url": "https://www.cycani.org/watch/6149/1/4.html",
+          "from": "cycity",
+          "nid": 4,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/1/4.html"
+        },
+        {
+          "name": "第第05集集",
+          "url": "https://www.cycani.org/watch/6149/1/5.html",
+          "from": "cycity",
+          "nid": 5,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/1/5.html"
+        },
+        {
+          "name": "第第06集集",
+          "url": "https://www.cycani.org/watch/6149/1/6.html",
+          "from": "cycity",
+          "nid": 6,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/1/6.html"
+        },
+        {
+          "name": "第第07集集",
+          "url": "https://www.cycani.org/watch/6149/1/7.html",
+          "from": "cycity",
+          "nid": 7,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/1/7.html"
+        },
+        {
+          "name": "第第08集集",
+          "url": "https://www.cycani.org/watch/6149/1/8.html",
+          "from": "cycity",
+          "nid": 8,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/1/8.html"
+        }
+      ]
+    },
+    {
+      "player_info": {
+        "show": "线路c2",
+        "parse": "18500cf4244b77dcf8b38db1b8a85c3f",
+        "parse_type": "1",
+        "player_kernel_type": "0",
+        "user_agent": "",
+        "headers": null,
+        "link_features": null,
+        "player_parse_type": "1"
+      },
+      "url_count": 8,
+      "urls": [
+        {
+          "name": "第第01集集",
+          "url": "https://www.cycani.org/watch/6149/2/1.html",
+          "from": "cycity-2",
+          "nid": 1,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/2/1.html"
+        },
+        {
+          "name": "第第02集集",
+          "url": "https://www.cycani.org/watch/6149/2/2.html",
+          "from": "cycity-2",
+          "nid": 2,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/2/2.html"
+        },
+        {
+          "name": "第第03集集",
+          "url": "https://www.cycani.org/watch/6149/2/3.html",
+          "from": "cycity-2",
+          "nid": 3,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/2/3.html"
+        },
+        {
+          "name": "第第04集集",
+          "url": "https://www.cycani.org/watch/6149/2/4.html",
+          "from": "cycity-2",
+          "nid": 4,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/2/4.html"
+        },
+        {
+          "name": "第第05集集",
+          "url": "https://www.cycani.org/watch/6149/2/5.html",
+          "from": "cycity-2",
+          "nid": 5,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/2/5.html"
+        },
+        {
+          "name": "第第06集集",
+          "url": "https://www.cycani.org/watch/6149/2/6.html",
+          "from": "cycity-2",
+          "nid": 6,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/2/6.html"
+        },
+        {
+          "name": "第第07集集",
+          "url": "https://www.cycani.org/watch/6149/2/7.html",
+          "from": "cycity-2",
+          "nid": 7,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/2/7.html"
+        },
+        {
+          "name": "第第08集集",
+          "url": "https://www.cycani.org/watch/6149/2/8.html",
+          "from": "cycity-2",
+          "nid": 8,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.cycani.org/watch/6149/2/8.html"
+        }
+      ]
+    },
+    {
+      "player_info": {
+        "show": "线路q",
+        "parse": "18500cf4244b77dcf8b38db1b8a85c3f",
+        "parse_type": "1",
+        "player_kernel_type": "0",
+        "user_agent": "",
+        "headers": null,
+        "link_features": null,
+        "player_parse_type": "1"
+      },
+      "url_count": 5,
+      "urls": [
+        {
+          "name": "1",
+          "url": "https://www.qifun.cc/vodplay/ys0HHHHJ-1-1.html",
+          "from": "qifan",
+          "nid": 1,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.qifun.cc/vodplay/ys0HHHHJ-1-1.html"
+        },
+        {
+          "name": "2",
+          "url": "https://www.qifun.cc/vodplay/ys0HHHHJ-1-2.html",
+          "from": "qifan",
+          "nid": 2,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.qifun.cc/vodplay/ys0HHHHJ-1-2.html"
+        },
+        {
+          "name": "3",
+          "url": "https://www.qifun.cc/vodplay/ys0HHHHJ-1-3.html",
+          "from": "qifan",
+          "nid": 3,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.qifun.cc/vodplay/ys0HHHHJ-1-3.html"
+        },
+        {
+          "name": "4",
+          "url": "https://www.qifun.cc/vodplay/ys0HHHHJ-1-4.html",
+          "from": "qifan",
+          "nid": 4,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.qifun.cc/vodplay/ys0HHHHJ-1-4.html"
+        },
+        {
+          "name": "5",
+          "url": "https://www.qifun.cc/vodplay/ys0HHHHJ-1-5.html",
+          "from": "qifan",
+          "nid": 5,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.qifun.cc/vodplay/ys0HHHHJ-1-5.html"
+        }
+      ]
+    },
+    {
+      "player_info": {
+        "show": "线路t1",
+        "parse": "18500cf4244b77dcf8b38db1b8a85c3f",
+        "parse_type": "1",
+        "player_kernel_type": "0",
+        "user_agent": "",
+        "headers": null,
+        "link_features": null,
+        "player_parse_type": "1"
+      },
+      "url_count": 8,
+      "urls": [
+        {
+          "name": "▶️ 立即播放",
+          "url": "https://acgfta.com/play/11798-1-1.html",
+          "from": "fantuan",
+          "nid": 1,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://acgfta.com/play/11798-1-1.html"
+        },
+        {
+          "name": "第01集",
+          "url": "https://acgfta.com/play/11798-1-1.html",
+          "from": "fantuan",
+          "nid": 2,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://acgfta.com/play/11798-1-1.html"
+        },
+        {
+          "name": "第02集",
+          "url": "https://acgfta.com/play/11798-1-2.html",
+          "from": "fantuan",
+          "nid": 3,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://acgfta.com/play/11798-1-2.html"
+        },
+        {
+          "name": "第03集",
+          "url": "https://acgfta.com/play/11798-1-3.html",
+          "from": "fantuan",
+          "nid": 4,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://acgfta.com/play/11798-1-3.html"
+        },
+        {
+          "name": "第04集",
+          "url": "https://acgfta.com/play/11798-1-4.html",
+          "from": "fantuan",
+          "nid": 5,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://acgfta.com/play/11798-1-4.html"
+        },
+        {
+          "name": "第05集",
+          "url": "https://acgfta.com/play/11798-1-5.html",
+          "from": "fantuan",
+          "nid": 6,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://acgfta.com/play/11798-1-5.html"
+        },
+        {
+          "name": "第06集",
+          "url": "https://acgfta.com/play/11798-1-6.html",
+          "from": "fantuan",
+          "nid": 7,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://acgfta.com/play/11798-1-6.html"
+        },
+        {
+          "name": "第07集",
+          "url": "https://acgfta.com/play/11798-1-7.html",
+          "from": "fantuan",
+          "nid": 8,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://acgfta.com/play/11798-1-7.html"
+        }
+      ]
+    },
+    {
+      "player_info": {
+        "show": "线路f1",
+        "parse": "18500cf4244b77dcf8b38db1b8a85c3f",
+        "parse_type": "1",
+        "player_kernel_type": "0",
+        "user_agent": "",
+        "headers": null,
+        "link_features": null,
+        "player_parse_type": "1"
+      },
+      "url_count": 7,
+      "urls": [
+        {
+          "name": "第1集",
+          "url": "https://www.fanchawu.cc/vodplay/XfqCCS-1-1.html",
+          "from": "fancha",
+          "nid": 1,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.fanchawu.cc/vodplay/XfqCCS-1-1.html"
+        },
+        {
+          "name": "第2集",
+          "url": "https://www.fanchawu.cc/vodplay/XfqCCS-1-2.html",
+          "from": "fancha",
+          "nid": 2,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.fanchawu.cc/vodplay/XfqCCS-1-2.html"
+        },
+        {
+          "name": "第3集",
+          "url": "https://www.fanchawu.cc/vodplay/XfqCCS-1-3.html",
+          "from": "fancha",
+          "nid": 3,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.fanchawu.cc/vodplay/XfqCCS-1-3.html"
+        },
+        {
+          "name": "第4集",
+          "url": "https://www.fanchawu.cc/vodplay/XfqCCS-1-4.html",
+          "from": "fancha",
+          "nid": 4,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.fanchawu.cc/vodplay/XfqCCS-1-4.html"
+        },
+        {
+          "name": "第5集",
+          "url": "https://www.fanchawu.cc/vodplay/XfqCCS-1-5.html",
+          "from": "fancha",
+          "nid": 5,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.fanchawu.cc/vodplay/XfqCCS-1-5.html"
+        },
+        {
+          "name": "第6集",
+          "url": "https://www.fanchawu.cc/vodplay/XfqCCS-1-6.html",
+          "from": "fancha",
+          "nid": 6,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.fanchawu.cc/vodplay/XfqCCS-1-6.html"
+        },
+        {
+          "name": "第7集",
+          "url": "https://www.fanchawu.cc/vodplay/XfqCCS-1-7.html",
+          "from": "fancha",
+          "nid": 7,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.fanchawu.cc/vodplay/XfqCCS-1-7.html"
+        }
+      ]
+    },
+    {
+      "player_info": {
+        "show": "线路f4",
+        "parse": "18500cf4244b77dcf8b38db1b8a85c3f",
+        "parse_type": "1",
+        "player_kernel_type": "0",
+        "user_agent": "",
+        "headers": null,
+        "link_features": null,
+        "player_parse_type": "1"
+      },
+      "url_count": 7,
+      "urls": [
+        {
+          "name": "第1集",
+          "url": "https://www.fanchawu.cc/vodplay/XfqCCS-4-1.html",
+          "from": "fancha-4",
+          "nid": 1,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.fanchawu.cc/vodplay/XfqCCS-4-1.html"
+        },
+        {
+          "name": "第2集",
+          "url": "https://www.fanchawu.cc/vodplay/XfqCCS-4-2.html",
+          "from": "fancha-4",
+          "nid": 2,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.fanchawu.cc/vodplay/XfqCCS-4-2.html"
+        },
+        {
+          "name": "第3集",
+          "url": "https://www.fanchawu.cc/vodplay/XfqCCS-4-3.html",
+          "from": "fancha-4",
+          "nid": 3,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.fanchawu.cc/vodplay/XfqCCS-4-3.html"
+        },
+        {
+          "name": "第4集",
+          "url": "https://www.fanchawu.cc/vodplay/XfqCCS-4-4.html",
+          "from": "fancha-4",
+          "nid": 4,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.fanchawu.cc/vodplay/XfqCCS-4-4.html"
+        },
+        {
+          "name": "第5集",
+          "url": "https://www.fanchawu.cc/vodplay/XfqCCS-4-5.html",
+          "from": "fancha-4",
+          "nid": 5,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.fanchawu.cc/vodplay/XfqCCS-4-5.html"
+        },
+        {
+          "name": "第6集",
+          "url": "https://www.fanchawu.cc/vodplay/XfqCCS-4-6.html",
+          "from": "fancha-4",
+          "nid": 6,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.fanchawu.cc/vodplay/XfqCCS-4-6.html"
+        },
+        {
+          "name": "第7集",
+          "url": "https://www.fanchawu.cc/vodplay/XfqCCS-4-7.html",
+          "from": "fancha-4",
+          "nid": 7,
+          "token": "",
+          "parse_api_url": "18500cf4244b77dcf8b38db1b8a85c3fhttps://www.fanchawu.cc/vodplay/XfqCCS-4-7.html"
+        }
+      ]
+    }
+  ],
+  "comment_list": [],
+  "is_collect": false,
+  "comment_count": 0,
+  "advert": null,
+  "detail_advert": null,
+  "comment_advert": null,
+  "official_comment": null
+}
